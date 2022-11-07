@@ -53,4 +53,18 @@
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/john082Coder/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/john082Coder/)
 <br />
+  
+  ---
+
+<h1 align="center">My Github Status </h1>
+<p align="center">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=john082Coder&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
+</p>
+
+<h1 align="center"></h1>
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=john082Coder&theme=github" /> 
+<h1 align="center"></h1>
+
+
+---
 
