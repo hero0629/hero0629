@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-<h1 align="center">👋 Senior Blockchain Engineer</h1>
+<h1 align="center">👋 Senior Frontend Engineer</h1>
 😎 Trusted engineer with 5+ years of experience in Frontend industry.
 
 - 🔭 I’m currently working on several Dapp projects related to DeFi and NFT.
