@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on developing DeFi and NFT frontend.
 - 📫 How to reach me: Telegram ID:
 
-<p align="center" style = "size:16px;">
-### Languages and Tools:
+<p align="center" style = "size:20px;">
+ Languages and Tools:
   
   [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/msilucifer/)](https://github.com/john082Coder/)
@@ -60,10 +60,6 @@
 <p align="center">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=john082Coder&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
 </p>
-
-<h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=john082Coder&theme=github" /> 
-<h1 align="center"></h1>
 
 
 ---
